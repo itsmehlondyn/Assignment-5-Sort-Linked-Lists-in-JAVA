@@ -1,0 +1,520 @@
+Script started on 2026-04-13 23:17:34-04:00 [TERM="xterm-256color" TTY="/dev/pts/9" COLUMNS="120" LINES="30"]
+[?2004h]0;pepperdinel2@thur114-hp1: ~/Assignment-5-Sort-Linked-Lists-in-JAVA[01;32mpepperdinel2@thur114-hp1[00m:[01;34m~/Assignment-5-Sort-Linked-Lists-in-JAVA[00m$ ./bash.shchmod +x bash.sh[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kjava assignment5 
+[?2004l____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+1
+enter item to insert:
+23
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+1
+enter item to insert:
+24
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+1
+enter item to insert:
+25
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+4
+displayAll():
+____________List of 3 items________________
+[ 23 , 24 , 25] 
+
+displayRecursively():
+____________List of 3 items________________
+[ 23 , 24 , 25] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+88
+enter index of where to spilt list:
+1
+Original list before split:
+displayAll():
+____________List of 3 items________________
+[ 23 , 24 , 25] 
+
+Left list after split:
+displayAll():
+____________List of 1 items________________
+[ 23] 
+
+Right list after split:
+displayAll():
+____________List of 2 items________________
+[ 24 , 25] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+4
+displayAll():
+____________List of 1 items________________
+[ 23] 
+
+displayRecursively():
+____________List of 1 items________________
+[ 23] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+2
+enter item to insert:
+12
+new node added at front !
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+4
+displayAll():
+____________List of 2 items________________
+[ 12 , 23] 
+
+displayRecursively():
+____________List of 2 items________________
+[ 12 , 23] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+11
+enter item to be inserted:
+11
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+4
+displayAll():
+____________List of 3 items________________
+[ 11 , 12 , 23] 
+
+displayRecursively():
+____________List of 3 items________________
+[ 11 , 12 , 23] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+11
+enter item to be inserted:
+2
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+11  4
+displayAll():
+____________List of 4 items________________
+[ 2 , 11 , 12 , 23] 
+
+displayRecursively():
+____________List of 4 items________________
+[ 2 , 11 , 12 , 23] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+11
+enter item to be inserted:
+14
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+4
+displayAll():
+____________List of 5 items________________
+[ 2 , 11 , 12 , 14 , 23] 
+
+displayRecursively():
+____________List of 5 items________________
+[ 2 , 11 , 12 , 14 , 23] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+1
+enter item to insert:
+24
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+4
+displayAll():
+____________List of 6 items________________
+[ 2 , 11 , 12 , 14 , 23 , 24] 
+
+displayRecursively():
+____________List of 6 items________________
+[ 2 , 11 , 12 , 14 , 23 , 24] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+2
+enter item to insert:
+25
+new node added at front !
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+4
+displayAll():
+____________List of 7 items________________
+[ 25 , 2 , 11 , 12 , 14 , 23 , 24] 
+
+displayRecursively():
+____________List of 7 items________________
+[ 25 , 2 , 11 , 12 , 14 , 23 , 24] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+99
+Original list before split:
+displayAll():
+____________List of 7 items________________
+[ 25 , 2 , 11 , 12 , 14 , 23 , 24] 
+
+Left list after split:
+displayAll():
+____________List of 3 items________________
+[ 25 , 2 , 11] 
+
+Right list after split:
+displayAll():
+____________List of 4 items________________
+[ 12 , 14 , 23 , 24] 
+
+Original list before split:
+displayAll():
+____________List of 3 items________________
+[ 25 , 2 , 11] 
+
+Left list after split:
+displayAll():
+____________List of 1 items________________
+[ 25] 
+
+Right list after split:
+displayAll():
+____________List of 2 items________________
+[ 2 , 11] 
+
+Original list before split:
+displayAll():
+____________List of 2 items________________
+[ 2 , 11] 
+
+Left list after split:
+displayAll():
+____________List of 1 items________________
+[ 2] 
+
+Right list after split:
+displayAll():
+____________List of 1 items________________
+[ 11] 
+
+Original list before split:
+displayAll():
+____________List of 4 items________________
+[ 12 , 14 , 23 , 24] 
+
+Left list after split:
+displayAll():
+____________List of 2 items________________
+[ 12 , 14] 
+
+Right list after split:
+displayAll():
+____________List of 2 items________________
+[ 23 , 24] 
+
+Original list before split:
+displayAll():
+____________List of 2 items________________
+[ 12 , 14] 
+
+Left list after split:
+displayAll():
+____________List of 1 items________________
+[ 12] 
+
+Right list after split:
+displayAll():
+____________List of 1 items________________
+[ 14] 
+
+Original list before split:
+displayAll():
+____________List of 2 items________________
+[ 23 , 24] 
+
+Left list after split:
+displayAll():
+____________List of 1 items________________
+[ 23] 
+
+Right list after split:
+displayAll():
+____________List of 1 items________________
+[ 24] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+4
+displayAll():
+____________List of 7 items________________
+[ 2 , 11 , 12 , 14 , 23 , 24 , 25] 
+
+displayRecursively():
+____________List of 7 items________________
+[ 2 , 11 , 12 , 14 , 23 , 24 , 25] 
+
+____________Main Menu_____________________
+select option :
+1: insert back
+2: insert front
+3: insert at index
+4: display items
+5: get item at index
+6: delete back
+7: delete front
+8: delete at index
+88: split list at index
+11: insert item in sorted list
+99: sort list using insertion sort
+9: exit
+9
+[?2004h]0;pepperdinel2@thur114-hp1: ~/Assignment-5-Sort-Linked-Lists-in-JAVA[01;32mpepperdinel2@thur114-hp1[00m:[01;34m~/Assignment-5-Sort-Linked-Lists-in-JAVA[00m$ exit
+[?2004lexit
+
+Script done on 2026-04-13 23:22:35-04:00 [COMMAND_EXIT_CODE="0"]
